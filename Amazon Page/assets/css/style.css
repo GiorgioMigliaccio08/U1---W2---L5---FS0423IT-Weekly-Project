@@ -1,0 +1,90 @@
+.logo {
+  height: 45px;
+  background-color: #222f3f;
+}
+
+div.category {
+  background-color: #374759;
+  padding: 3px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin-inline: 10px;
+}
+h1 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: x-large;
+  color: white;
+  text-align: center;
+}
+h2 {
+  margin-left: 28px;
+  margin-bottom: 5px;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: medium;
+}
+
+div.primocontainer {
+  background-image: url(../images/bg-image.png);
+
+  height: 170px;
+  margin: 20px;
+}
+
+div.orange {
+  padding: 5px;
+  margin: 20px;
+  background-color: #f66500;
+  text-align: center;
+  color: white;
+}
+
+.foto1,
+.foto2,
+.foto3,
+.foto4 {
+  padding-inline: 20px;
+  display: inline;
+  margin-inline: 10px;
+}
+
+img.ridimensionamento {
+  margin-top: 20px;
+  height: 400px;
+  width: 1480px;
+  padding-inline: 20px;
+}
+p.allinea {
+  text-align: center;
+  color: black;
+}
+
+img.ultimafoto {
+  justify-content: center;
+}
+
+span {
+  color: #66a9ae;
+}
+
+.bottom {
+  border: none;
+  width: 1519px;
+  height: 30px;
+  background-color: #374759;
+  color: white;
+  margin-top: 20px;
+}
+.piedipagina {
+  text-align: center;
+  height: 80px;
+  background-color: #222f3f;
+}
+.ultimafoto {
+  margin-top: 20px;
+}
