@@ -1,5 +1,6 @@
 .logo {
   height: 45px;
+  width: 100%;
   background-color: #222f3f;
 }
 
@@ -48,7 +49,7 @@ div.orange {
 .foto2,
 .foto3,
 .foto4 {
-  padding-inline: 20px;
+  padding-inline: 10px;
   display: inline;
   margin-inline: 10px;
 }
@@ -56,7 +57,7 @@ div.orange {
 img.ridimensionamento {
   margin-top: 20px;
   height: 400px;
-  width: 1480px;
+  width: 960px;
   padding-inline: 20px;
 }
 p.allinea {
@@ -74,7 +75,7 @@ span {
 
 .bottom {
   border: none;
-  width: 1519px;
+  width: 1007px;
   height: 30px;
   background-color: #374759;
   color: white;
